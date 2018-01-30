@@ -1,2 +1,1 @@
-# shuaTi
-刷题记录
+记录PAT、LeetCode的solve
