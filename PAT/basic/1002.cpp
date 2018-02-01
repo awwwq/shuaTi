@@ -14,7 +14,7 @@ void topinyin(int n){
 
 int main() {
     int n=0,d;
-    freopen("./in.txt","r",stdin);
+    freopen("./in.txt","r",stdin);   //提交时删掉
     while(~scanf("%1d",&d)){    //直接输入会卡在while，反复要求输入，用freopen从文件读取解决
         n = n+d;
     }
